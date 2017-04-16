@@ -1,4 +1,7 @@
+.DS_Store
+haarcascade_frontalface_default.xml
 Scratch*
+data/
 .cache/
 *~
 __pycache__/
